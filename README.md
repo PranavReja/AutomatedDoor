@@ -2,6 +2,7 @@
 A personal home security project that uses Raspberry pi and Arduino to lock and unlock my door with facial recognition or custom linked keycards.  
 
 **Demo 1:** https://youtu.be/OssdfSRK6s4
+**Demo 2:** https://youtu.be/dBMjdWTdf8k
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Facial Recognition
