@@ -1,6 +1,8 @@
 # AutomatedDoor
 A personal home security project that uses Raspberry pi and Arduino to lock and unlock my door with facial recognition or custom linked keycards.  
 
+**Demo 1:** https://youtu.be/OssdfSRK6s4
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Facial Recognition
 The facial recognition was done in two parts using a Raspberry Pi and a local computer. The raspberry pi is running an openCV based facial tracking algorithm and if any face is detected for a certain amount of time, then it takes a picture and uploads it to a locally runnning Flask web-server. Along with the image it uses socket communication to notify the local computer to check the webserver and download the new image uploaded for facial recognition and send the result back through socket communication. This portion was written in python. 
