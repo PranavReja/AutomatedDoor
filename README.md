@@ -15,5 +15,8 @@ The Arduino accepts USB Serial Commands from the Raspberry Pi when a face is rec
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Gallery
+![0A3CE293-0875-41DC-A181-FF5CDA8628B6](https://github.com/user-attachments/assets/1a13de51-606b-4f70-a4fb-0f17481b2192)
+
+
 
 
